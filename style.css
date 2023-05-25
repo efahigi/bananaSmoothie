@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(10, 12, 12);
+}
+.navContainer{
+    border: solid rgb(151, 145, 145);
+    background-color:lightgray;
+    height: 40px;
+    width: 90%;
+    margin:1em;
+    
+}
+
+.titleContainer{
+    /* border:solid green; */
+    color: white;
+    width: 90%;
+    margin:1em;
+}
+.picture{
+    /* border:solid rgb(43, 255, 0); */
+    color: white;
+    height: 260px;
+    width: 90%;
+    display:flex;
+    margin:1em;
+}
+.ingredients{
+    /* border:solid red; */
+    /* height: 220px; */
+    color: white;
+    width: 90%;
+    margin:1em;
+}
+.methods{
+    /* border:solid purple; */
+    color: white;
+    margin:1em;
+    width: 90%;
+}
+#pic{
+   
+    width: 60% ;
+    height: 260px;
+}
