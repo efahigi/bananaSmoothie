@@ -18,11 +18,12 @@ body {
 }
 .picture{
     /* border:solid rgb(43, 255, 0); */
-    color: white;
+    color: black;
     height: 260px;
     width: 90%;
     display:flex;
     margin:1em;
+    background-color: white;
 }
 .ingredients{
     /* border:solid red; */
